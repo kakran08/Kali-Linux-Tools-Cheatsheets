@@ -42,7 +42,7 @@
  | 	Nmap Query | Nmap Command |
  | 	:--- | :--- |
  | 	Fragment packets| 	nmap	 -f [target]    |
- | 	Specify a specific MTU  nmap –mtu [MTU] [target]    |
+ | 	Specify a specific MTU | nmap –mtu [MTU] [target]    |
  | 	Use a decoy| 	nmap	 -D RND: [number] [target]    |
  | 	Idle zombie scan | 	nmap -sI [zombie] [target]    |
  | 	Manually specify a source port | 	nmap –source-port [port] [target]    |
