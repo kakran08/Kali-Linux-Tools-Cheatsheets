@@ -1,5 +1,5 @@
 # Kali linux tools cheatsheet
-This repository is made to keep notes and basic commands for various tools in tabular format.
+This repository is made to keep basic commands for various tools in structured format.
 
-## Pupose 
-It can used as quick reference for various commands.
+## Purpose 
+It can used as quick reference for various commands provided in the given tools.
